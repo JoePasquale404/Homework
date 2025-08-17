@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.title{
+    background: rgb(210, 183, 149);
+    box-shadow: inset 1px 1px 8px 0px rgb(111, 84, 84);
+    border-radius: 15px;   
+    display: inline-block;
+    padding: 15px;
+    font-size: 7px;
+    margin: 5px;
+    
+    
+    
+    
+}
+.background{
+    background-color: rgba(215, 216, 206, 0.704);
+    border-radius: 15px 0px 0px 15px;
+    border: 0.1px, solid, black;
+    height: 200px;
+    overflow: auto;
+}

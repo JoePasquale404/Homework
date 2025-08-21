@@ -1,0 +1,35 @@
+.body{
+    background-color: rgba(0, 0, 0, 0.857);
+ 
+}
+.body_text{
+    color: rgb(255, 255, 255);
+}
+.main-circel{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: red;
+    position: relative;
+    top: 15px;
+    left: 50px;
+   
+}
+
+
+.main-box{
+   
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(194, 255, 255);
+}
+
+.main-item{
+    
+    position: fixed;
+    top: 250px;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+  
+}

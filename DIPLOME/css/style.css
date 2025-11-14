@@ -1200,7 +1200,7 @@ line-height: normal;
 
     .shop_watch {
       display: block;
-      max-height: 252px;
+     
     }
 .shop_watch-shop__subtitle{
   display: block;
@@ -1329,3 +1329,4 @@ flex-direction: column;
 
 
 }}
+

@@ -1211,7 +1211,7 @@ line-height: normal;
       max-width: 250px;}
 
 .shop_tablet-img {
-    transform: translateX(0px);
+    transform: translateX(60px);
     max-width: 252px;
 
 }
@@ -1325,6 +1325,7 @@ flex-direction: column;
 @media (max-width: 400px){
 
 .header__list{display: block;}
+
 
 
 }}
